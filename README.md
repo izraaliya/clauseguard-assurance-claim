@@ -5,7 +5,7 @@
 ClauseGuard is an AI insurance assistant for policyholders. It reads the policies a household already holds, answers coverage questions with the clause that decides them, prepares and files claims on the insurer's own form after the policyholder confirms, and relays the insurer's decision back to the chat.
 
 FinTechathon 2026 · International Track · Topic D: AI Insurance Assistant
-Team: Bunga Laelatul Muna, Izra, Wan Sabrina · Institut Teknologi Sepuluh Nopember, Indonesia
+Team: Bunga Laelatul Muna, Izra Noor Zahara Aliya, Wan Sabrina · Institut Teknologi Sepuluh Nopember, Indonesia
 
 <p align="center">
   <a href="documentation-submission/clauseguard.mp4">
